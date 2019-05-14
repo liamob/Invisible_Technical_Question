@@ -12,3 +12,10 @@ INSTRUCTIONS:
 
 IF YOU WANT TO RUN YOUR OWN ARRAY OF INPUTS:
 1: To run the program with your own test array, create an array of postal codes and city names. Then, run the function, array_of_citys_or_postalcodes(array), and put your array in the argument.
+
+
+
+REFERENCES:
+OpenWeatherMap API website: "https://openweathermap.org"
+Dark Sky Weather API webstie: "https://darksky.net/dev/docs"
+
