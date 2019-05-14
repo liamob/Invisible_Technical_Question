@@ -6,7 +6,7 @@ Invisible Technical Question
 
 INSTRUCTIONS:
 1: Change the PATH of the "newfile" const on line 14 to the path where you have latinmap.js stored on your computer.
-2: To run program on the command line: $ node Inv_Tech_Question.js -c 1
+2: To run program on the command line: $ node Inv_Tech_Question.js -c 1.
 3: If you want to run the program with a different test array, change the last number above. I have 5 test arrays.
 
 
